@@ -1,5 +1,5 @@
 #include <iostream>
-
+//code used to determine which number is bigger.
 
 using namespace std;
 int main (){
